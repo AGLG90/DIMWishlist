@@ -1,0 +1,48 @@
+title:Defiance
+
+// Rufus's Fury (Adept) - Rufus's Fury (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=342514437&perks=1563455254,102912326
+dimwishlist:item=342514437&perks=1563455254,3299896859
+dimwishlist:item=342514437&perks=1563455254,3007133316
+dimwishlist:item=342514437&perks=1563455254,2939589096
+dimwishlist:item=342514437&perks=461595545,102912326
+dimwishlist:item=342514437&perks=461595545,3299896859
+dimwishlist:item=342514437&perks=461595545,3007133316
+dimwishlist:item=342514437&perks=461595545,2939589096
+dimwishlist:item=342514437&perks=1906147653,102912326
+dimwishlist:item=342514437&perks=1906147653,3299896859
+dimwishlist:item=342514437&perks=1906147653,3007133316
+dimwishlist:item=342514437&perks=1906147653,2939589096
+dimwishlist:item=342514437&perks=2014892510,102912326
+dimwishlist:item=342514437&perks=2014892510,3299896859
+dimwishlist:item=342514437&perks=2014892510,3007133316
+dimwishlist:item=342514437&perks=2014892510,2939589096
+
+
+// Deliverance - Deliverance (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=768621510&perks=1906147653,344235611
+
+
+// Astral Horizon (Adept) - Astral Horizon (Adept) (pvp)
+//notes: tags:pvp
+dimwishlist:item=854379020&perks=972757866,47981717
+dimwishlist:item=854379020&perks=4071163871,47981717
+
+
+// BxR-55 Battler - BxR-55 Battler (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2708806099&perks=1906147653,2675184851
+
+
+// BxR-55 Battler - BxR-55 Battler (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2708806099&perks=2014892510,3719974635
+
+
+// Hung Jury SR4 (Adept) - Hung Jury SR4 (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2883684343&perks=3700496672,3891536761
+
+
